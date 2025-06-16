@@ -24,11 +24,14 @@ The project reflects my ability to:
 
 ## 📸 Screenshots
 
-![GOL Screenshot 1](images/GOLscreenshot1.jpg)
-![GOL Screenshot 2](images/GOLscreenshot2.jpg)
-![GOL Screenshot 3](images/GOLscreenshot3.jpg)
-![GOL Screenshot 4](images/GOLscreenshot4.jpg)
-
+<p align="center">
+  <img src="images/GOLscreenshot1.jpg" width="45%" />
+  <img src="images/GOLscreenshot2.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="images/GOLscreenshot3.jpg" width="45%" />
+  <img src="images/GOLscreenshot4.jpg" width="45%" />
+</p>
 ## 🎥 Video Demo
 
 ## 🛠️ How to Run
