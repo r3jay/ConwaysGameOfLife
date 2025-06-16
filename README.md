@@ -32,7 +32,10 @@ The project reflects my ability to:
   <img src="images/GOLscreenshot3.jpg" width="45%" />
   <img src="images/GOLscreenshot4.jpg" width="45%" />
 </p>
+
 ## 🎥 Video Demo
+
+[![Demo Video Preview](https://img.youtube.com/vi/SHXQwAPDEpQ/hqdefault.jpg)](https://youtube.com/shorts/SHXQwAPDEpQ?feature=share)
 
 ## 🛠️ How to Run
 
@@ -48,9 +51,9 @@ The project reflects my ability to:
 
 ## 📁 Files
 
-- `Program.cs`, `Form1.cs` — Main app logic
+- `MyGOL.sln` — Main app logic
 - `images/` — Screenshots and icons
-- `ReadMe.txt` — Original college submission notes
+- `ReadMe.txt` — Notes
 - `LICENSE` — MIT License
 
 ## 📌 Acknowledgements
