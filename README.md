@@ -1,6 +1,16 @@
 # ConwaysGameOfLife
 An interactive simulation of Conway's Game of Life, built with C# and .NET. Developed entirely within one month, showcasing rapid development skills, attention to detail, and a solid understanding of core software development concepts.
 
+## 💡 Why This Project Matters
+
+This application goes beyond basic implementation by combining user interactivity, persistent settings, and dynamic rendering — all under tight time constraints. It simulates the classic algorithm-driven rules of Conway’s Game of Life while giving users complete control over the simulation environment. 
+
+The project reflects my ability to:
+- Work independently with partially provided UI resources
+- Translate algorithmic rules into functional code
+- Integrate user input, state management, and real-time feedback
+- Use Git and version control tools professionally
+
 ## 🚀 Features
 
 - Fully interactive grid: toggle cells by clicking
@@ -14,9 +24,21 @@ An interactive simulation of Conway's Game of Life, built with C# and .NET. Deve
 
 ## 📸 Screenshots
 
-
 ## 🎥 Video Demo
 
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ConwaysGameOfLife.git
+
+2. Open the solution file ConwaysGameOfLife.sln in Visual Studio 2019 or later.
+
+3. Build and run the project.
+
+4. Use the menu strip to Start, Pause, or advance one generation at a time.
+
+5. Explore options via the View menu and context-sensitive right-click menu.
 
 ## 📁 Files
 
@@ -27,7 +49,9 @@ An interactive simulation of Conway's Game of Life, built with C# and .NET. Deve
 
 ## 📌 Acknowledgements
 
-UI layout and button assets were provided by the course instructor (Full Sail University). All game logic, features, and enhancements were implemented independently.
+UI layout, button design, and some front-end scaffolding were provided by the course instructor at Full Sail University.
+
+All backend logic, simulation behavior, state handling, save/load systems, and custom features were designed and implemented independently.
 
 ## 📝 License
 
