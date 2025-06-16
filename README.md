@@ -24,6 +24,11 @@ The project reflects my ability to:
 
 ## 📸 Screenshots
 
+(images/GOLscreenshot1.jpg)
+(images/GOLscreenshot2.jpg)
+(images/GOLscreenshot3.jpg)
+(images/GOLscreenshot4.jpg)
+
 ## 🎥 Video Demo
 
 ## 🛠️ How to Run
