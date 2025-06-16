@@ -24,17 +24,10 @@ The project reflects my ability to:
 
 ## 📸 Screenshots
 
-**Screenshot 1**  
-![Screenshot 1](images/GOLscreenshot1.jpg)
-
-**Screenshot 2**  
-![Screenshot 2](images/GOLscreenshot2.jpg)
-
-**Screenshot 3**  
-![Screenshot 3](images/GOLscreenshot3.jpg)
-
-**Screenshot 4**  
-![Screenshot 4](images/GOLscreenshot4.jpg)
+![GOL Screenshot 1](images/GOLscreenshot1.jpg)
+![GOL Screenshot 2](images/GOLscreenshot2.jpg)
+![GOL Screenshot 3](images/GOLscreenshot3.jpg)
+![GOL Screenshot 4](images/GOLscreenshot4.jpg)
 
 ## 🎥 Video Demo
 
