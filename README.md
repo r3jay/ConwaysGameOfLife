@@ -28,11 +28,9 @@ The project reflects my ability to:
 
 ## 🛠️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ConwaysGameOfLife.git
+1. Download the ZIP of this repository or clone it via Git.
 
-2. Open the solution file ConwaysGameOfLife.sln in Visual Studio 2019 or later.
+2. Unzip (if downloaded) and open the solution file MyGOL.sln in Visual Studio 2019 or later.
 
 3. Build and run the project.
 
