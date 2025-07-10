@@ -1,7 +1,7 @@
 # ConwaysGameOfLife
 This is a fully interactive desktop version of Conway’s Game of Life, built in C# using WinForms. It started as a portfolio project, and I treated it like my first serious attempt at a polished software tool.
 
-## 💡 Why This Project Matters
+## Objectives
 
 Being one of my earliest deep dives into C# and .NET, and built in a single month during my Project & Portfolio course, it challenged me to go beyond simple UI work and into simulating real logic-driven systems. It’s also where I learned how to balance front end with backend rules, which becomes a recurring pattern in dev work.
 
@@ -11,7 +11,7 @@ The project reflects my ability to:
 - Integrate user input, state management, and real-time feedback
 - Use Git and version control tools professionally
 
-## 🚀 Software Features
+## Software Features
 
 - Click to toggle cells on a grid
 - Start / Pause / Step through simulation
@@ -22,7 +22,7 @@ The project reflects my ability to:
 - Live status bar showing generations and living cells
 - Context menu and persistent user settings
   
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="images/GOLscreenshot1.jpg" width="45%" />
@@ -33,11 +33,11 @@ The project reflects my ability to:
   <img src="images/GOLscreenshot4.jpg" width="45%" />
 </p>
 
-## 🎥 Video Demo
+## Video Demo
 
 [![Demo Video Preview](https://img.youtube.com/vi/SHXQwAPDEpQ/hqdefault.jpg)](https://youtube.com/shorts/SHXQwAPDEpQ?feature=share)
 
-## 🛠️ How to Run
+## How to Run
 
 1. Download the ZIP of this repository or clone it via Git.
 
@@ -49,14 +49,14 @@ The project reflects my ability to:
 
 5. Explore options via the View menu and context-sensitive right-click menu.
 
-## 📁 Files
+## Files
 
 - `MyGOL.sln` — Main app logic
 - `images/` — Screenshots and icons
 - `ReadMe.txt` — Notes
 - `LICENSE` — MIT License
 
-## 📌 Acknowledgements
+## Acknowledgements
 
 UI layout, button design, and some front-end scaffolding were provided by the course instructor at Full Sail University.
 
